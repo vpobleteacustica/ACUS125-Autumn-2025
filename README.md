@@ -94,7 +94,7 @@ La asignatura de Aislamiento y Análisis de Vibraciones tiene como principal pro
 
 ### Software, Librerías y Tutoriales
 
-+ Lenguaje: [Python 3.9.4](https://www.python.org/downloads/release/python-394/) 
++ Lenguaje: [Python 3.10.16](https://www.python.org/downloads/release/python-394/) 
 + Ambiente: [Jupyter](https://jupyter.org)
 + Librerías básicas para computación científica en acústica y vibraciones: [Numpy](https://numpy.org), [Pandas](https://pandas.pydata.org), [Matplotlib](https://matplotlib.org), [Scipy](https://scipy.org), [Librosa](https://librosa.org/doc/latest/index.html)
 + Tutorial introducción para [Markdown](https://daringfireball.net/projects/markdown/) y [GitHub Markdown Help](https://help.github.com/articles/basic-writing-and-formatting-syntax/), [LaTeX](https://www.latex-project.org/)
